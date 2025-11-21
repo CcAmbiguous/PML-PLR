@@ -1,7 +1,7 @@
 ## PML-PLR-code
 
 ## only just need run demo.m
-, If you need to run a certain dataset, you just need to uncomment it
+If you need to run a certain dataset, you just need to uncomment it
 
 If you have any questions, please contact: chenyu9265324@163.com
 
