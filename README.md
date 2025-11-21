@@ -28,17 +28,12 @@ Bibtex:
 }
 ```
 simple:
-
+```
 @inproceedings{chen2025pseudo,
-
-  title={Pseudo-label reconstruction for partial multi-label learning},
-  
-  author={Chen, Yu and Li, Fang and Han, Na and Li, Guanbin and Gao, Hongbo and Chan, Sixian and Fang, Xiaozhao},
-  
-  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
-  
-  pages={4896--4904},
-  
+  title={Pseudo-label reconstruction for partial multi-label learning}, 
+  author={Chen, Yu and Li, Fang and Han, Na and Li, Guanbin and Gao, Hongbo and Chan, Sixian and Fang, Xiaozhao},  
+  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},  
+  pages={4896--4904},  
   year={2025}
-  
 }
+```
