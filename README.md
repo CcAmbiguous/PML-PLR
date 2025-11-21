@@ -7,7 +7,8 @@ If you have any questions, please contact: chenyu9265324@163.com
 
 Pseudo-Label Reconstruction for Partial Multi-Label Learning-IJCAI2025
 
-<img width="1053" height="486" alt="image" src="https://github.com/user-attachments/assets/301f8af7-53ce-42c1-be4f-a7204da30ebd" />
+![framework](https://github.com/user-attachments/assets/71091a51-62a3-4e90-b2cb-9ec4d8bdba9e)
+
 
 Bibtex:
 
