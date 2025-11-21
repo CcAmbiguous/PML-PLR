@@ -1,6 +1,6 @@
 # PML-PLR
 
-only just need run demo.m
+# only just need run demo.m
 
 Pseudo-Label Reconstruction for Partial Multi-Label Learning-IJCAI2025
 
