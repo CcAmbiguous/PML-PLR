@@ -1,6 +1,8 @@
-# PML-PLR
+## PML-PLR-code
 
 # only just need run demo.m
+
+If you have any questions, please contact: chenyu9265324@163.com
 
 Pseudo-Label Reconstruction for Partial Multi-Label Learning-IJCAI2025
 
