@@ -34,7 +34,8 @@ Bibtex:
   url       = {https://doi.org/10.24963/ijcai.2025/545},
   
 }
-simple
+
+simple:
 
 @inproceedings{chen2025pseudo,
 
