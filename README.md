@@ -1,4 +1,4 @@
-## PML-PLR-code
+## Pseudo-Label Reconstruction for Partial Multi-Label Learning
 
 ## only just need run demo.m
 If you need to run a certain dataset, you just need to uncomment it
