@@ -3,6 +3,8 @@
 ## only just need run demo.m
 If you need to run a certain dataset, you just need to uncomment it
 
+For a detailed dataset, please refer to https://github.com/CcAmbiguous/PML-LENFN
+
 If you have any questions, please contact: chenyu9265324@163.com
 
 Pseudo-Label Reconstruction for Partial Multi-Label Learning-IJCAI2025
